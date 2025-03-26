@@ -1,0 +1,397 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3157003241",
+    "Type": "User",
+    "GUID": "{D045AE4C-1C49-4B4B-B33A-2B741CB699D1}",
+    "Language": "SFX",
+    "Hash": "{0898AB78-CA9B-92A5-B168-8C9CF857B734}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test",
+    "ShortName": "Test",
+    "Path": "Test.bnk",
+    "Media": [
+     {
+      "Id": "55999385",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "0F/{0FA17C25-4EE1-5ABA-5E0B-72A2B1B9D890}.wem"
+     },
+     {
+      "Id": "90973882",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "8B/{8B701723-2EEE-FFCC-D2B0-8F70D0ECBEB4}.wem"
+     },
+     {
+      "Id": "149220130",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "D9/{D9AF9341-69EB-4E3E-A984-06D4161C55CC}.wem"
+     },
+     {
+      "Id": "223048619",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shot.wav",
+      "CachePath": "FC/{FC04642D-AA73-DE15-8395-C0E9C49258B3}.wem"
+     },
+     {
+      "Id": "337218406",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "death.wav",
+      "CachePath": "FC/{FCBA348B-9754-534B-6BC8-6C3A5BBF05B7}.wem"
+     },
+     {
+      "Id": "397295333",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "jump.wav",
+      "CachePath": "21/{2197E92F-F82A-3341-5038-A4DB4CD32585}.wem"
+     },
+     {
+      "Id": "404392350",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "jump.wav",
+      "CachePath": "AE/{AEE02B6B-653F-3AC0-6B12-C5805FE118D4}.wem"
+     },
+     {
+      "Id": "409000097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "F2/{F2B62B79-8CCE-0986-C3AF-18EED8D4860B}.wem"
+     },
+     {
+      "Id": "437052288",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "rolling.wav",
+      "CachePath": "71/{717B1103-7DE0-A398-AA78-BEBCF42FD0C1}.wem"
+     },
+     {
+      "Id": "473427796",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind.wav",
+      "CachePath": "4D/{4D69027F-80E1-7A18-CEFF-F9C4986BE888}.wem"
+     },
+     {
+      "Id": "492168212",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "1C/{1C044E14-C193-78ED-06D1-DC7A69C0E7FC}.wem"
+     },
+     {
+      "Id": "551367070",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "start.wav",
+      "CachePath": "D8/{D8A3D05C-9EBA-A78F-90E2-D4DE0B3E1CDA}.wem"
+     },
+     {
+      "Id": "557883852",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "B5/{B534EA0C-4863-88C6-20FD-72A74A8F4571}.wem"
+     },
+     {
+      "Id": "591864207",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "DB/{DB83C7C4-9FF9-E097-DE61-DE50A7F1AA1B}.wem"
+     },
+     {
+      "Id": "653163884",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "5F/{5F362EFD-316C-2FF9-FF5D-067AC98BCBBD}.wem"
+     },
+     {
+      "Id": "673557385",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "49/{49FB33E4-2C4B-8EE8-8C13-960EA6DF1556}.wem"
+     },
+     {
+      "Id": "687411145",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "22/{221078B3-7DFB-B67E-FE41-314A1AEB3912}.wem"
+     },
+     {
+      "Id": "705408925",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "B6/{B6F0E959-CF4E-8D45-9A2A-2008475585FC}.wem"
+     },
+     {
+      "Id": "725787824",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "02/{0280A8CD-CAC5-7B7C-06CF-01748E145F88}.wem"
+     },
+     {
+      "Id": "751843740",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "690082__elias79__asmr-fingernail-tap-sound.wav",
+      "CachePath": "00/{00D00A3B-A21E-9698-2375-7A0FF408CF29}.wem"
+     },
+     {
+      "Id": "786151211",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "jump.wav",
+      "CachePath": "31/{31BE6F45-1286-E657-7398-7C571EF43CB6}.wem"
+     },
+     {
+      "Id": "898027436",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "win.wav",
+      "CachePath": "08/{085FF866-02D0-8CE2-4BA2-C9632C3F0DDF}.wem"
+     },
+     {
+      "Id": "901638440",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "jump.wav",
+      "CachePath": "D8/{D8BFA402-E4FB-9103-707B-A2CEE5AED278}.wem"
+     },
+     {
+      "Id": "992058572",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "fall.wav",
+      "CachePath": "7A/{7A80E286-158F-34B1-D15C-CEAF42C88A99}.wem"
+     },
+     {
+      "Id": "1049030210",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shot.wav",
+      "CachePath": "04/{046428C1-9E2C-4980-E3A2-865FDF1D79DE}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2468089024",
+      "Name": "Play_Blade",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Blade",
+      "GUID": "{184A429C-1029-415B-944E-B8929AB7DA98}",
+      "MaxAttenuation": "50",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "473427796"
+       }
+      ]
+     },
+     {
+      "Id": "712207333",
+      "Name": "Play_Cannon",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Cannon",
+      "GUID": "{D0F16F9A-9825-486B-8637-1B74663722FA}",
+      "MaxAttenuation": "50",
+      "DurationType": "OneShot",
+      "DurationMin": "2.7222857",
+      "DurationMax": "2.8045714",
+      "MediaRefs": [
+       {
+        "Id": "223048619"
+       },
+       {
+        "Id": "1049030210"
+       }
+      ]
+     },
+     {
+      "Id": "1172822028",
+      "Name": "Play_Death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Death",
+      "GUID": "{F9435E6C-2060-48CF-816E-2290320AFA6A}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.7885716",
+      "DurationMax": "3.7885716",
+      "MediaRefs": [
+       {
+        "Id": "337218406"
+       }
+      ]
+     },
+     {
+      "Id": "2712047697",
+      "Name": "Play_fall",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_fall",
+      "GUID": "{10CEBBC0-35DD-4DC3-BD86-A680829C8627}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6494699",
+      "DurationMax": "1.3498781",
+      "MediaRefs": [
+       {
+        "Id": "90973882"
+       },
+       {
+        "Id": "409000097"
+       },
+       {
+        "Id": "557883852"
+       },
+       {
+        "Id": "653163884"
+       },
+       {
+        "Id": "673557385"
+       },
+       {
+        "Id": "687411145"
+       },
+       {
+        "Id": "705408925"
+       },
+       {
+        "Id": "992058572"
+       }
+      ]
+     },
+     {
+      "Id": "3689126666",
+      "Name": "Play_Jump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Jump",
+      "GUID": "{9DA76707-F761-4E42-80F4-A1B0B8A56AA8}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.55787766",
+      "DurationMax": "0.5911838",
+      "MediaRefs": [
+       {
+        "Id": "397295333"
+       },
+       {
+        "Id": "404392350"
+       },
+       {
+        "Id": "786151211"
+       },
+       {
+        "Id": "901638440"
+       }
+      ]
+     },
+     {
+      "Id": "2719919427",
+      "Name": "Play_Roll",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Roll",
+      "GUID": "{97DF05D1-F2A8-496A-AF91-95A6714EB2A1}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "437052288"
+       }
+      ]
+     },
+     {
+      "Id": "2230670290",
+      "Name": "Play_Start",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Start",
+      "GUID": "{A49B3E61-4DCE-4A28-BE10-3821B1BEE461}",
+      "DurationType": "OneShot",
+      "DurationMin": "3",
+      "DurationMax": "3",
+      "MediaRefs": [
+       {
+        "Id": "551367070"
+       }
+      ]
+     },
+     {
+      "Id": "2044747472",
+      "Name": "Play_UI",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_UI",
+      "GUID": "{D7899362-E1CC-418B-9F85-F82159D1D51D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.23506284",
+      "DurationMax": "0.7522022",
+      "MediaRefs": [
+       {
+        "Id": "55999385"
+       },
+       {
+        "Id": "149220130"
+       },
+       {
+        "Id": "492168212"
+       },
+       {
+        "Id": "591864207"
+       },
+       {
+        "Id": "725787824"
+       },
+       {
+        "Id": "751843740"
+       }
+      ]
+     },
+     {
+      "Id": "2955987680",
+      "Name": "Play_Win",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Win",
+      "GUID": "{EF5F150A-E030-4FED-8DEA-86161EE7DFC1}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.7013876",
+      "DurationMax": "3.7013876",
+      "MediaRefs": [
+       {
+        "Id": "898027436"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{94D483BB-9B37-32AF-EF85-DB51C4DBF3DD}"
+ }
+}

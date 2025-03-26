@@ -1,0 +1,50 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "roll_over_WwiseProject",
+   "GUID": "{7FD24308-7585-4B02-BEC8-935C9BF5B080}",
+   "Generator": "2024.1.3.8749"
+  },
+  "CacheRoot": "../../../../roll_over_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Android",
+    "GUID": "{05E436D4-09E8-4ACD-A381-D27AB7AFF925}",
+    "BasePlatform": "Android",
+    "BasePlatformGUID": "{A2D401DE-B8B6-4FEB-8142-137C34D507CA}",
+    "Path": "../../../../roll_over_WwiseProject/GeneratedSoundBanks/Android"
+   },
+   {
+    "Name": "iOS",
+    "GUID": "{FB023AC2-B02F-4427-8D23-569C12D12F5E}",
+    "BasePlatform": "iOS",
+    "BasePlatformGUID": "{ECE03DB4-F948-462D-B2BB-A9173012B1F8}",
+    "Path": "../../../../roll_over_WwiseProject/GeneratedSoundBanks/iOS"
+   },
+   {
+    "Name": "Mac",
+    "GUID": "{EB9BB063-EF71-4807-B01B-1E27F8613F1B}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../roll_over_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{9B843EDB-E559-4BAC-A34C-408C9B8B1EE9}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../roll_over_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{794F506E-5EA4-4A3E-A533-0F413D0ABC3B}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{DBBED9A3-5CD2-DCCA-D940-08D48C8B042C}"
+ }
+}

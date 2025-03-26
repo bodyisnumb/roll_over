@@ -13,6 +13,14 @@ public class ballDeath : MonoBehaviour
     [Tooltip("Префаб з частинками (ефект вибуху)")]
     public GameObject deathEffectPrefab;
 
+    [Header("Смертельний звук")]
+    [Tooltip("Звук, який грає при смерті")]
+    public string deathSoundEvent = "Play_Death"; // The name of the event to trigger the death sound
+
+    [Header("Звук старту")]
+    [Tooltip("Звук, який грає при респавні")]
+    public string startSoundEvent = "Play_Start"; // The name of the event to trigger the start sound
+
     private bool isDead = false;
     private Rigidbody2D rb;
     private SpriteRenderer sr;
@@ -41,7 +49,7 @@ public class ballDeath : MonoBehaviour
         }
     }
 
-public    void Die()
+    public void Die()
     {
         if (isDead)
             return;
@@ -58,6 +66,9 @@ public    void Die()
             else
                 Destroy(effect, 2f);
         }
+
+        // Play death sound
+        AkSoundEngine.PostEvent(deathSoundEvent, gameObject); // Play death sound on the current object
 
         // Вимикаємо відображення шарика
         if (sr != null)
@@ -81,6 +92,9 @@ public    void Die()
     IEnumerator Respawn()
     {
         yield return new WaitForSeconds(respawnDelay);
+
+        // Play start sound when respawn begins
+        AkSoundEngine.PostEvent(startSoundEvent, gameObject); // Play start sound on the current object
 
         // Переміщаємо весь батьківський контейнер (Player) до точки респавну
         if (transform.parent != null && respawnPoint != null)

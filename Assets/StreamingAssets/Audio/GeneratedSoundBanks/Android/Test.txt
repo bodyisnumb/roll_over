@@ -1,0 +1,46 @@
+Event	ID	Name			Wwise Object Path	Notes
+	712207333	Play_Cannon			\Default Work Unit\Play_Cannon	
+	1172822028	Play_Death			\Default Work Unit\Play_Death	
+	2044747472	Play_UI			\Default Work Unit\Play_UI	
+	2230670290	Play_Start			\Default Work Unit\Play_Start	
+	2468089024	Play_Blade			\Default Work Unit\Play_Blade	
+	2712047697	Play_fall			\Default Work Unit\Play_fall	
+	2719919427	Play_Roll			\Default Work Unit\Play_Roll	
+	2955987680	Play_Win			\Default Work Unit\Play_Win	
+	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	350589224	Rollinnotrollin			\Default Work Unit\Rollinnotrollin	
+
+State	ID	Name	State Group			Notes
+	75818920	Notrollin	Rollinnotrollin			
+	748895195	None	Rollinnotrollin			
+	4121407045	Rollin	Rollinnotrollin			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	55999385	tap_02	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\0F\{0FA17C25-4EE1-5ABA-5E0B-72A2B1B9D890}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap_02		45228
+	90973882	fall_05	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\8B\{8B701723-2EEE-FFCC-D2B0-8F70D0ECBEB4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_05		206812
+	149220130	tap_03	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\D9\{D9AF9341-69EB-4E3E-A984-06D4161C55CC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap_03		45228
+	223048619	shot_01	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\FC\{FC04642D-AA73-DE15-8395-C0E9C49258B3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\shots\shot_01		494872
+	337218406	death	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\FC\{FCBA348B-9754-534B-6BC8-6C3A5BBF05B7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\death		668448
+	397295333	jump_01	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\21\{2197E92F-F82A-3341-5038-A4DB4CD32585}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\jumpR\jump_01		102960
+	404392350	jump_03	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\AE\{AEE02B6B-653F-3AC0-6B12-C5805FE118D4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\jumpR\jump_03		98556
+	409000097	fall	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\F2\{F2B62B79-8CCE-0986-C3AF-18EED8D4860B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall		114712
+	437052288	rolling	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\71\{717B1103-7DE0-A398-AA78-BEBCF42FD0C1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\rolling		1663344
+	473427796	wind	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\4D\{4D69027F-80E1-7A18-CEFF-F9C4986BE888}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\wind		2145296
+	492168212	tap	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\1C\{1C044E14-C193-78ED-06D1-DC7A69C0E7FC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap		58768
+	551367070	start	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\D8\{D8A3D05C-9EBA-A78F-90E2-D4DE0B3E1CDA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\start		529344
+	557883852	fall_03	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\B5\{B534EA0C-4863-88C6-20FD-72A74A8F4571}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_03		134928
+	591864207	tap_01	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\DB\{DB83C7C4-9FF9-E097-DE61-DE50A7F1AA1B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap_01		54256
+	653163884	fall_04	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\5F\{5F362EFD-316C-2FF9-FF5D-067AC98BCBBD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_04		224784
+	673557385	fall_01	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\49\{49FB33E4-2C4B-8EE8-8C13-960EA6DF1556}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_01		168624
+	687411145	fall_06	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\22\{221078B3-7DFB-B67E-FE41-314A1AEB3912}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_06		238260
+	705408925	fall_07	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\B6\{B6F0E959-CF4E-8D45-9A2A-2008475585FC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_07		177612
+	725787824	tap_04	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\02\{0280A8CD-CAC5-7B7C-06CF-01748E145F88}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap_04		45228
+	751843740	tap_05	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\00\{00D00A3B-A21E-9698-2375-7A0FF408CF29}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\UI\tap_05		144516
+	786151211	jump	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\31\{31BE6F45-1286-E657-7398-7C571EF43CB6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\jumpR\jump		101488
+	898027436	win	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\08\{085FF866-02D0-8CE2-4BA2-C9632C3F0DDF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\win		653068
+	901638440	jump_02	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\D8\{D8BFA402-E4FB-9103-707B-A2CEE5AED278}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\jumpR\jump_02		104432
+	992058572	fall_02	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\7A\{7A80E286-158F-34B1-D15C-CEAF42C88A99}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\falling\fall_02		161884
+	1049030210	shot	C:\03_Projects\04_GitHub\roll_over\roll_over_WwiseProject\.cache\04\{046428C1-9E2C-4980-E3A2-865FDF1D79DE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Game_SFX\shots\shot		480352
+

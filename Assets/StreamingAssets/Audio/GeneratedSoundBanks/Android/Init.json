@@ -1,0 +1,77 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{F227787B-1511-6B7F-B62D-B931362A7D4C}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{B735F05F-4C18-44E4-BCCD-63A99A86B05A}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{2805A09D-356D-4E1A-A866-87339414CBDA}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "350589224",
+      "Name": "Rollinnotrollin",
+      "ObjectPath": "\\States\\Default Work Unit\\Rollinnotrollin",
+      "GUID": "{A1A56985-3A79-43A7-9E5C-DBED6BA89593}",
+      "States": [
+       {
+        "Id": "75818920",
+        "Name": "Notrollin",
+        "ObjectPath": "\\States\\Default Work Unit\\Rollinnotrollin\\Notrollin",
+        "GUID": "{9ADB3BD1-2ABE-4E4C-8507-19E317BFD8D0}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Rollinnotrollin\\None",
+        "GUID": "{32289B4A-2422-4859-9B37-309A799DBAE3}"
+       },
+       {
+        "Id": "4121407045",
+        "Name": "Rollin",
+        "ObjectPath": "\\States\\Default Work Unit\\Rollinnotrollin\\Rollin",
+        "GUID": "{F530191E-BD6D-429C-A849-AAB22ACE7B73}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DDE0B2D9-6CB4-EC14-E144-1B0699790FD7}"
+ }
+}

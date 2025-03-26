@@ -1,4 +1,5 @@
 using UnityEngine;
+using AK.Wwise;  // Make sure to include the Wwise namespace
 using System.Collections;
 
 public class pipeShooter : MonoBehaviour
@@ -14,6 +15,9 @@ public class pipeShooter : MonoBehaviour
 
     [Tooltip("Початкова швидкість проектилу (вектор, задайте напрямок і величину)")]
     public Vector2 projectileVelocity = new Vector2(5f, 0f);
+
+    [Tooltip("Wwise подія для пострілу")]
+    public AK.Wwise.Event playCannonEvent;  // Reference to the Play_Cannon event
 
     void Start()
     {
@@ -34,11 +38,23 @@ public class pipeShooter : MonoBehaviour
         if (projectilePrefab != null && spawnPoint != null)
         {
             GameObject proj = Instantiate(projectilePrefab, spawnPoint.position, spawnPoint.rotation);
-            // Додаємо початкову швидкість до проектилю через його Rigidbody2D
+
+            // Play the cannon shot sound from the Shooter object (spawnPoint is the Shooter's position)
+            if (playCannonEvent != null)
+            {
+                playCannonEvent.Post(gameObject);
+                Debug.Log("Cannon shot event triggered.");
+            }
+            else
+            {
+                Debug.LogError("Play_Cannon event not assigned in the Inspector.");
+            }
+
+            // Add initial velocity to the projectile via its Rigidbody2D
             Rigidbody2D rb = proj.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.linearVelocity = spawnPoint.rotation * projectileVelocity;
+                rb.velocity = spawnPoint.rotation * projectileVelocity;  // Set velocity using the spawn point's rotation and the projectile velocity
             }
         }
     }

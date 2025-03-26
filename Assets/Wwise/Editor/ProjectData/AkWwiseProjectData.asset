@@ -66,8 +66,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 39d471c82cf1684197e4b7133ff00079
     GuidInternal: 
-    m_lastTime: -8584587911803216474
-    List: []
+    m_lastTime: -8584586144032978423
+    List:
+    - name: Test
+      guid: 4cae45d0491c4b4bb33a2b741cb699d1
+      id: 3157003241
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 39d471c82cf1684197e4b7133ff00079
+      - ElementName: Test
+        ObjectType: 7
+        guid: 4cae45d0491c4b4bb33a2b741cb699d1
+      Path: SoundBanks\Default Work Unit\Test
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -80,8 +94,161 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: eb51662ab8909448b7f185753a6397fb
     GuidInternal: 
-    m_lastTime: -8584587911802913837
-    List: []
+    m_lastTime: -8584586145156587291
+    List:
+    - name: Play_Blade
+      guid: 9c424a1829105b41944eb8929ab7da98
+      id: 2468089024
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Blade
+        ObjectType: 3
+        guid: 9c424a1829105b41944eb8929ab7da98
+      Path: Events\Default Work Unit\Play_Blade
+      maxAttenuation: 50
+      maxDuration: 0
+      minDuration: 0
+    - name: Play_Cannon
+      guid: 9a6ff1d025986b4886371b74663722fa
+      id: 712207333
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Cannon
+        ObjectType: 3
+        guid: 9a6ff1d025986b4886371b74663722fa
+      Path: Events\Default Work Unit\Play_Cannon
+      maxAttenuation: 50
+      maxDuration: 2.8045714
+      minDuration: 2.7222857
+    - name: Play_Death
+      guid: 6c5e43f96020cf48816e2290320afa6a
+      id: 1172822028
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Death
+        ObjectType: 3
+        guid: 6c5e43f96020cf48816e2290320afa6a
+      Path: Events\Default Work Unit\Play_Death
+      maxAttenuation: 0
+      maxDuration: 3.7885716
+      minDuration: 3.7885716
+    - name: Play_fall
+      guid: c0bbce10dd35c34dbd86a680829c8627
+      id: 2712047697
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_fall
+        ObjectType: 3
+        guid: c0bbce10dd35c34dbd86a680829c8627
+      Path: Events\Default Work Unit\Play_fall
+      maxAttenuation: 0
+      maxDuration: 1.3498781
+      minDuration: 0.6494699
+    - name: Play_Jump
+      guid: 0767a79d61f7424e80f4a1b0b8a56aa8
+      id: 3689126666
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Jump
+        ObjectType: 3
+        guid: 0767a79d61f7424e80f4a1b0b8a56aa8
+      Path: Events\Default Work Unit\Play_Jump
+      maxAttenuation: 0
+      maxDuration: 0.5911838
+      minDuration: 0.55787766
+    - name: Play_Roll
+      guid: d105df97a8f26a49af9195a6714eb2a1
+      id: 2719919427
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Roll
+        ObjectType: 3
+        guid: d105df97a8f26a49af9195a6714eb2a1
+      Path: Events\Default Work Unit\Play_Roll
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Play_Start
+      guid: 613e9ba4ce4d284abe103821b1bee461
+      id: 2230670290
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Start
+        ObjectType: 3
+        guid: 613e9ba4ce4d284abe103821b1bee461
+      Path: Events\Default Work Unit\Play_Start
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Play_UI
+      guid: 629389d7cce18b419f85f82159d1d51d
+      id: 2044747472
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_UI
+        ObjectType: 3
+        guid: 629389d7cce18b419f85f82159d1d51d
+      Path: Events\Default Work Unit\Play_UI
+      maxAttenuation: 0
+      maxDuration: 0.7522022
+      minDuration: 0.23506284
+    - name: Play_Win
+      guid: 0a155fef30e0ed4f8dea86161ee7dfc1
+      id: 2955987680
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: eb51662ab8909448b7f185753a6397fb
+      - ElementName: Play_Win
+        ObjectType: 3
+        guid: 0a155fef30e0ed4f8dea86161ee7dfc1
+      Path: Events\Default Work Unit\Play_Win
+      maxAttenuation: 0
+      maxDuration: 3.7013876
+      minDuration: 3.7013876
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -108,8 +275,74 @@ MonoBehaviour:
     ParentPath: States\Default Work Unit
     guid: 32df9f408c3fa74892e5adc61176553b
     GuidInternal: 
-    m_lastTime: -8584587911803435819
-    List: []
+    m_lastTime: -8584586145156696269
+    List:
+    - name: Rollinnotrollin
+      guid: 8569a5a1793aa7439e5cdbed6ba89593
+      id: 350589224
+      PathAndIcons:
+      - ElementName: States
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 32df9f408c3fa74892e5adc61176553b
+      - ElementName: Rollinnotrollin
+        ObjectType: 9
+        guid: 8569a5a1793aa7439e5cdbed6ba89593
+      Path: States\Default Work Unit\Rollinnotrollin
+      values:
+      - name: None
+        guid: 4a9b2832222459489b37309a799dbae3
+        id: 748895195
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 32df9f408c3fa74892e5adc61176553b
+        - ElementName: Rollinnotrollin
+          ObjectType: 9
+          guid: 8569a5a1793aa7439e5cdbed6ba89593
+        - ElementName: None
+          ObjectType: 8
+          guid: 4a9b2832222459489b37309a799dbae3
+      - name: Notrollin
+        guid: d13bdb9abe2a4c4e850719e317bfd8d0
+        id: 75818920
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 32df9f408c3fa74892e5adc61176553b
+        - ElementName: Rollinnotrollin
+          ObjectType: 9
+          guid: 8569a5a1793aa7439e5cdbed6ba89593
+        - ElementName: Notrollin
+          ObjectType: 8
+          guid: d13bdb9abe2a4c4e850719e317bfd8d0
+      - name: Rollin
+        guid: 1e1930f56dbd9c42a849aab22ace7b73
+        id: 4121407045
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 32df9f408c3fa74892e5adc61176553b
+        - ElementName: Rollinnotrollin
+          ObjectType: 9
+          guid: 8569a5a1793aa7439e5cdbed6ba89593
+        - ElementName: Rollin
+          ObjectType: 8
+          guid: 1e1930f56dbd9c42a849aab22ace7b73
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
   SwitchWwu:
   - PhysicalPath: Switches\Default Work Unit.wwu
     PathAndIcons:
@@ -139,7 +372,7 @@ MonoBehaviour:
     m_lastTime: -8584587911802535113
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 05000000060000001300000014000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

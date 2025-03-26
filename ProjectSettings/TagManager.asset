@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Spike
   - Wall
+  - Hammer
   layers:
   - Default
   - TransparentFX

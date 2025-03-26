@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 2459855203924729620}
   - component: {fileID: 556718434909000385}
   - component: {fileID: 3745855295513507359}
+  - component: {fileID: 7400964267432204454}
   m_Layer: 0
   m_Name: PlayerCircle
   m_TagString: Untagged
@@ -339,6 +340,18 @@ MonoBehaviour:
   respawnPoint: {fileID: 0}
   respawnDelay: 1
   deathEffectPrefab: {fileID: 8051478328962421764, guid: 915ba5ff9670241978cdbc405fde3b2e, type: 3}
+--- !u!114 &7400964267432204454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6828460912635519347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 071f974b6d20ce64fbf90e543b749e48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8084684569544445243
 GameObject:
   m_ObjectHideFlags: 0
